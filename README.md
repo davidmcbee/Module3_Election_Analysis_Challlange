@@ -30,18 +30,30 @@ The audit questions and answers to those questions asked are:
 Table 1
 
 ### Getting to These Results using Python
-The python code to conduct this analysis is available here [PyPoll_challenge.py] (https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/PyPoll_Challenge.py).  There were a number of steps that needed to be coded to arrive at the results shown above. These are:
+The python code to conduct this analysis is available here [PyPoll_challenge.py] (https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/PyPoll_Challenge.py).
+
+There were a number of steps that needed to be coded to arrive at the results shown above. These are:
 1.	Import two python libraries to be used in the code. Provide a path to the provided CSV file and create a path to the text file which holds the results. Additionally, a number of variables, lists and dictionaries were declared and used throughout the code. See lines 1 – 25.
+
 2.	Loop through each row and count the candidate votes. See lines 26 – 57
+
 3.	Loop through the counties and count the votes for each county. See lines 58 – 71
+
 4.	Print the total votes to the terminal and save the total votes to the election_analysis text file. See lines 73 – 86
+
 5.	Calculate the county vote percentages and print the county, the county vote percentages and county votes. Print that and save it to the  election_analysis text file. See lines 88 – 101.
+
 6.	Calculate, print and save to the election_analysis text file, the largest county turnout. Lines 103 – 117
+
 7.	Calculate and print the candidate votes, vote percentage and print them. – Lines 119 – 131
+
 8.	Determine the winning candidate, winning count, winning vote percentage. Print and save that. Lines 133 - 152
-9.	Election-Audit Summary
+
+## Election-Audit Summary
 The hope is that many will find this analysis useful. It can be used in its current form regardless of number of candidates, voters or counties. If the consensus is that this would be useful in the future, then there are a few other items of information I propose we add to this analysis to make it even more useful.
 Specifically, if the data is available, or can be collected for city votes, political party and voting method used, we could:
 1.	Determine the vote count and percentage by the city within each count. This would break the data down to provide more granularity
+
 2.	Comparing the political party to who the vote was cast for could reveal political party strength. Further it could provide insight into how independent party voters are trending.
+
 3.	Understanding how many people cast their vote from among the three voting methods, Mail-In Ballot, Punch Cards or Direct Recording Electronic would provide insight into areas for investment; provide better customer service.
