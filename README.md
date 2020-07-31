@@ -19,7 +19,7 @@ There are three voting methods:
 3.	Direct Recording Electronic
 The votes from these three methods were sent to the central office and tabulated.
 
-### Vote Information
+### Vote Information for Analysis
 The information from the central office, for this analysis, was provided in a CSV file containing three columns and 369712 rows, including a header row. The three columns are Ballot ID, County and Candidate.
 The product from this analysis is to provide a vote count report to certify the election results.
 
