@@ -30,7 +30,7 @@ The audit questions and answers to those questions asked are:
 Table 1
 
 ### Getting to These Results using Python
-The python code to conduct this analysis is available here.  There were a number of steps that needed to be coded to arrive at the results shown above. These are:
+The python code to conduct this analysis is available here [PyPoll_challenge.py] (https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/PyPoll_Challenge.py).  There were a number of steps that needed to be coded to arrive at the results shown above. These are:
 1.	Import two python libraries to be used in the code. Provide a path to the provided CSV file and create a path to the text file which holds the results. Additionally, a number of variables, lists and dictionaries were declared and used throughout the code. See lines 1 – 25.
 2.	Loop through each row and count the candidate votes. See lines 26 – 57
 3.	Loop through the counties and count the votes for each county. See lines 58 – 71
