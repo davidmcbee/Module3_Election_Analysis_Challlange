@@ -24,7 +24,7 @@ The information from the central office, for this analysis, was provided in a CS
 The product from this analysis is to provide a vote count report to certify the election results.
 
 ## Election-Audit Results
-The results from the analysis is available here and shown in table 1
+The results from the analysis is available here [election_results.txt] (https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/Challenge_analysis/election_analysis.txt) and shown in table 1
 The audit questions and answers to those questions asked are:
 ![Results_Table.png](https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/Challenge_analysis/Results_table.png)
 
