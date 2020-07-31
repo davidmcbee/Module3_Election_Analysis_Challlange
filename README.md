@@ -27,25 +27,9 @@ The product from this analysis is to provide a vote count report to certify the 
 The results from the analysis is available here [election_results.txt] (https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/Challenge_analysis/election_analysis.txt) and shown in table 1
 The audit questions and answers to those questions asked are:
 ![Results_Table.png](https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/Challenge_analysis/Results_table.png)
+Table 1
 
-
-Questions to Answer	Answers
-What was the total number of votes cast?	369,711
-What was the voter turnout for each county?	Jefferson – 38,855
-Denver – 306,055
-Arapahoe – 24,801
-What was the percentage of votes from each county out of the total count?	Jefferson – 10.5%
-Denver – 82.8%
-Arapahoe – 6.7%
-What county had the highest turnout?	Denver
-What was the percentage of votes for each candidate	Charles Casper Stockham – 23.0%
-Diana DeGette – 73.8%
-Raymon Anthony Doane – 3.1%
-What was the total number of votes for each candidate	Charles Casper Stockham – 85,213
-Diana DeGette – 272,892
-Raymon Anthony Doane – 11,606
-Who was the winner of the election based on the popular vote, their vote count and percentage of total votes?	Diana DeGette with 272,892 votes which is 73.8% of the total vote count
-Getting to These Results using Python
+### Getting to These Results using Python
 The python code to conduct this analysis is available here.  There were a number of steps that needed to be coded to arrive at the results shown above. These are:
 1.	Import two python libraries to be used in the code. Provide a path to the provided CSV file and create a path to the text file which holds the results. Additionally, a number of variables, lists and dictionaries were declared and used throughout the code. See lines 1 – 25.
 2.	Loop through each row and count the candidate votes. See lines 26 – 57
