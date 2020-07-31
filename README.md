@@ -26,6 +26,7 @@ The product from this analysis is to provide a vote count report to certify the 
 ## Election-Audit Results
 The results from the analysis is available here and shown in table 1
 The audit questions and answers to those questions asked are:
+![] )https://github.com/davidmcbee/Module3_Election_Analysis_Challlange/blob/master/Challenge_analysis/election_analysis.txt)
 
 
 Questions to Answer	Answers
